@@ -1,0 +1,2 @@
+# reactotomasyon
+stok cari programım
